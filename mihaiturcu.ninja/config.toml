@@ -1,7 +1,7 @@
 baseURL = "https://mihaiturcu.ninja/"
 languageCode = "en-us"
 title = "Personal blog"
-theme = "terminal"
+theme = "base16"
 paginate = 5
 
 [params]

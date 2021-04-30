@@ -4,3 +4,6 @@
 [submodule "mihaiturcu.ninja/themes/terminal"]
 	path = mihaiturcu.ninja/themes/terminal
 	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "mihaiturcu.ninja/themes/base16"]
+	path = mihaiturcu.ninja/themes/base16
+	url = https://github.com/htdvisser/hugo-base16-theme.git
