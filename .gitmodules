@@ -1,0 +1,3 @@
+[submodule "mihaiturcu.ninja/themes/ananke"]
+	path = mihaiturcu.ninja/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
